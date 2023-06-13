@@ -6,6 +6,7 @@ After processing the data, verify the behavior of the clustering in relation to 
 
 Experiments
 
-* First experience (June 10, 2023) - Data processing - Code here.
-  * Meus resultados aqui ### data silhoute
-* Use of Hierarchical clustering and KMeans. Code here.
+* First experience (June 10, 2023) - Data processing - [Results](https://github.com/eduardo-data/Machine_Learning_Nao_Supervisionado/blob/main/Docs/Model/silhouette.md)
+* Data preparation.[Results](https://github.com/eduardo-data/Machine_Learning_Nao_Supervisionado/blob/main/Code/Data_Acquisition_and_EDA/DataPreparation.ipynb)
+* Use of Hierarchical clustering and KMeans. Code [here](https://github.com/eduardo-data/Machine_Learning_Nao_Supervisionado/blob/main/Code/Modeling/Clustering_Understanding.ipynb).
+
